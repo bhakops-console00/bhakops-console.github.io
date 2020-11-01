@@ -1,6 +1,6 @@
 {
     "version": 3,
-    "active": false,
+    "active": true,
     "source": "market",
     "message": "Şu anda uygulamamızda iyileştirme çalışmaları mevcuttur. Anlayışınız için teşekkürler.",
     "package": "com.realitymx.whltwo",
