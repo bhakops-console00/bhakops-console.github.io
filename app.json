@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "active": true,
+    "active": false,
     "source": "market",
     "message": "Merhaba",
     "package": "com.realitymx.whltwo",
