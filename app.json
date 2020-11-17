@@ -1,8 +1,8 @@
 {
-    "version": 6,
+    "version": 7,
     "active": true,
     "source": "market",
     "message": "Merhaba<br>Daha iyi bir deneyim için uygulamayı güncelleyin.",
-    "package": "com.realitymx.whltwo",
-    "url": "https://play.google.com/store/apps/details?id=com.realitymx.whltwo"
+    "package": "mx.com.reality.whltwo",
+    "url": "https://play.google.com/store/apps/details?id=mx.com.reality.whltwo"
 }
