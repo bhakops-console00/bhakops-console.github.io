@@ -1,8 +1,8 @@
 {
-    "version": 7,
+    "version": 8,
     "active": false,
     "source": "market",
-    "message": "Uygulamamız geçici olarak devre dışıdır. Anlayışınız için teşekkürler.",
+    "message": "Uygulamayı kullanabilmek için güncellemeniz gereklidir. Lütfen Google Play'den uygulamayı güncelleyin.",
     "package": "mx.com.reality.whltwo",
     "url": "https://play.google.com/store/apps/details?id=mx.com.reality.whltwo"
 }
