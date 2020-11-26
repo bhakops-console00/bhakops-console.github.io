@@ -1,6 +1,6 @@
 {
     "version": 8,
-    "active": false,
+    "active": true,
     "source": "market",
     "message": "Uygulamayı kullanabilmek için güncellemeniz gereklidir. Lütfen Google Play'den uygulamayı güncelleyin.",
     "package": "mx.com.reality.whltwo",
