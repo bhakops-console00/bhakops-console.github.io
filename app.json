@@ -1,6 +1,6 @@
 {
     "version": 8,
-    "active": false,
+    "active": true,
     "source": "market",
     "message": "Uygulamamızda bakım ve iyileştirme çalışmaları devam etmektedir. Çalışma sonrası bilgilendirme yapılacaktır.",
     "package": "mx.com.reality.whltwo",
