@@ -1,6 +1,6 @@
 {
     "version": 11,
-    "active": false,
+    "active": true,
     "source": "market",
     "message": "Bu sürüm artık kullanımdan kaldırılmıştır. Lütfen uygulamayı siliniz.",
     "package": "mx.com.reality.whltwo",
