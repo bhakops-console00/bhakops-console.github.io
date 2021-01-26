@@ -1,8 +1,8 @@
 {
-    "version": 11,
+    "version": 1,
     "active": true,
     "source": "market",
-    "message": "Bu sürüm artık kullanımdan kaldırılmıştır. Lütfen uygulamayı siliniz.",
-    "package": "mx.com.reality.whltwo",
-    "url": "https://play.google.com/store/apps/details?id=mx.com.reality.whltwo"
+    "message": "Lütfen uygulamayı güncelleyiniz.",
+    "package": "mx.com.reality.wheeltwo",
+    "url": "https://play.google.com/store/apps/details?id=mx.com.reality.wheeltwo"
 }
